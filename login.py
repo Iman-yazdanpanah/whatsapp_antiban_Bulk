@@ -14,7 +14,7 @@ import chromedriver_autoinstaller
 from bidi.algorithm import get_display
 import pyperclip
 
-
+bache
 
 
 ghofl = 0
