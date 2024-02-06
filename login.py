@@ -15,6 +15,8 @@ from bidi.algorithm import get_display
 import pyperclip
 
 
+
+
 ghofl = 0
 image_place = None
 
