@@ -1935,11 +1935,7 @@ console_output.tag_configure('custom_font', font=('Times New Roman', 12, 'bold')
 console_output.tag_configure('custom_align', justify=LEFT)
 console_output.tag_configure('ltr', justify=LEFT)
 console_output.tag_configure('rtl', justify=RIGHT)
-
+ 
 
 
 root.mainloop()
-
-
-
-    
